@@ -33,3 +33,35 @@ Usar as mesma regras do local
 ### Leis Brasileiras
 
 ### Psicologia
+
+## Informações avançadas
+
+### Tríade DisConInt
+1. Disponibilidade
+2. Confidencialidade
+3. Integridade
+
+### Hash
+Hash é uma sequencia de caracteres gerada a partir da leitura de um arquivo. É usado para garantir a integridade do documento.
+Para obter o hash basta rodar comandos específicos no sistema operacional.
+
+* Windows:  certutil -hashfile <<file>> SHA256
+* MacOS:
+* Linux:
+
+### PGP
+PrettyGoodPrivacy: envio de e-mail com chave pública e chave privada
+
+### Validações de email
+SPF, DKIM, DMARC
+
+### Assinatura digital Gov.br
+
+## Checklist do profissional
+1. Softwares atualizados
+2. Arquivos salvos sempre com senha e criptografados
+3. 
+
+## Checklist do paciente
+1. Validado e-mail do profissional de fato está ok
+2. 
