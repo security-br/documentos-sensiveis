@@ -44,6 +44,8 @@ Usar as mesma regras do local
 ### Hash
 Hash é uma sequencia de caracteres gerada a partir da leitura de um arquivo. É usado para garantir a integridade do documento.
 Para obter o hash basta rodar comandos específicos no sistema operacional.
+Também pode ser conhecido como checksum ou sum.
+UsaremOS SHA256.
 
 * Windows:  certutil -hashfile <<file>> SHA256
 * MacOS:
