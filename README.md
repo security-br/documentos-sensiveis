@@ -9,6 +9,14 @@ Vastaamo
 * Manter sistema operacional sempre atualizados (Windows, MacOS/iOS/padOS (Apple), Linux)
 * Manter ferramentas de segurança também atualizadas (antivírus)
 * Manter ferramentas de uso do profissional atualizadas (Editor de texto Word, programa de visualização de PDF)
+* Criptografar disco rígido para inviabilizar leitura dos documentos se equipamento é roubado
+* Colocar senha de login forte para equipamento
+* Manter controle de acesso tanto durante os atendimentos quanto não atendendo
+* Manter documentos impressos em local com chave
+* Criar senha mestra para desbloqueio do cofre das senhas
+
+## Sugestão de fluxo de trabalho para profissional autônomo
+1. Cria e salva document
 
 ## Como salvar
 
