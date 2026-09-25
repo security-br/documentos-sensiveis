@@ -7,7 +7,7 @@ Como validar o hash (se o documento é original)
 No Windows:
 1. Faça o download do arquivos
 2. No Windows, vá no menu iniciar, digite cmd e <ENTER>
-3. No prompt de comando, certifique-se está na pasta onde o pdf for salvo, por exemplo Downloads (acesse esse pasta com comando "cd Downloads)
+3. No prompt de comando, certifique-se está na pasta onde o pdf for salvo, por exemplo Downloads (acesse esse pasta com comando ```cd Downloads```)
 4. Digite esse comando para o item #1 da tabela:
 ```certutil -hashfile "Como enviar documentos confidenciais com segurança-cleared.pdf" SHA256```
 5. No resultado, será gerado o número de hash, que deve bater com o hash informado na linha da tabela
