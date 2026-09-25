@@ -1,0 +1,4 @@
+# Gerenciador de senha BitWarden
+
+
+
