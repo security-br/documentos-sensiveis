@@ -1,0 +1,25 @@
+## Informações avançadas
+
+### Tríade C.I.D.
+1. Confidencialidade
+2. Integridade
+3. Disponibilidade
+
+### Hash
+Hash é uma sequencia de caracteres gerada a partir da leitura de um arquivo. É usado para garantir a integridade do documento.
+Para obter o hash basta rodar comandos específicos no sistema operacional.
+Também pode ser conhecido como checksum ou sum.
+UsaremOS SHA256.
+
+* Windows:  certutil -hashfile <<file>> SHA256
+* MacOS:
+* Linux:
+
+### PGP
+PrettyGoodPrivacy: envio de e-mail com chave pública e chave privada
+
+### Validações de email
+SPF, DKIM, DMARC
+
+### Assinatura digital Gov.br
+
