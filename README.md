@@ -36,10 +36,10 @@ Usar as mesma regras do local
 
 ## Informações avançadas
 
-### Tríade DisConInt
-1. Disponibilidade
-2. Confidencialidade
-3. Integridade
+### Tríade C.I.D.
+1. Confidencialidade
+2. Integridade
+3. Disponibilidade
 
 ### Hash
 Hash é uma sequencia de caracteres gerada a partir da leitura de um arquivo. É usado para garantir a integridade do documento.
